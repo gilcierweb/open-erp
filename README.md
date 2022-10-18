@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/5c1ff0cfe4bee9780912/maintainability)](https://codeclimate.com/github/gilcierweb/open-erp/maintainability)
 [![CodeFactor](https://www.codefactor.io/repository/github/purple-stock/open-erp/badge)](https://www.codefactor.io/repository/github/purple-stock/open-erp)
 # OPEN ERP
 
